@@ -1,14 +1,11 @@
 accelerate==0.27.2
 bitsandbytes==0.42.0
-datasets==2.18.0
-huggingface-hub==0.23.1
 numpy==1.26.4
 pandas==1.5.3
 pydantic==2.9.2
 pydantic-settings==2.5.2
 pydantic-core==2.23.4
 tqdm==4.66.2
-transformers==4.41.1
 trl==0.7.11
 uvicorn==0.29.0
 fastapi==0.110.0
